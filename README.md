@@ -1,7 +1,7 @@
-# haskell Cookbook
+# Haskell Cookbook
 Attempt to write a Cookbook Style for Real World Haskell
 
-Recipe 0.
+### Recipe 0.
 
 Install Haskell On MacOS
 
@@ -15,7 +15,7 @@ ghc --version
 stack --version
 ```
 
-recipe 1. Create a project with stack
+### Recipe 1. Create a project with stack
 https://github.com/commercialhaskell/stack/blob/master/doc/GUIDE.md
 http://docs.haskellstack.org/en/stable/GUIDE.html#hello-world-example
 
@@ -45,10 +45,10 @@ update cabal file
 
 stack build
 
-repcipe 2. Lens
+### repcipe 2. Lens
 https://en.wikibooks.org/wiki/Haskell/Lenses_and_functional_references
 
-recipe 3. Fetch Http Request with Wreq
+### recipe 3. Fetch Http Request with Wreq
 
 ```bash
 mkdir learn-wreq
