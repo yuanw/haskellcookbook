@@ -1,0 +1,8 @@
+flags: {}
+packages:
+- '.'
+extra-deps:
+- wreq-0.4.0.0
+- lens-4.12.3
+- aeson-0.8.0.2
+resolver: lts-3.16
